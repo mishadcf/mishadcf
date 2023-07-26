@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working at Omdena, collaborating to build an Algerian dialects hate speech classifier using NLP
+- 🌱 I’m currently completing The AIcore's data scientist specialisation
+- 💬 Ask me about running or chess
+- 📫 How to reach me: misha.freidin@gmail.com
