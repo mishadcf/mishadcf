@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Omdena, collaborating to build an Algerian dialects hate speech classifier using NLP
 - 🌱 I’m currently completing The AIcore's data scientist specialisation
 - 💬 Ask me about running or chess
-- 📫 How to reach me: misha.freidin@gmail.com
+- 📫 How to reach me: misha.freidin@gmail.com, https://www.linkedin.com/in/misha-freidin/
