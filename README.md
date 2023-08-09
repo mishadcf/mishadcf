@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on building a river gauge prediction model for the Thames Catchment Area (UK).
-- 🌱 I’m currently completing The AIcore's data scientist specialisation
+- 🌱 I'm formalizing my data science skillset at the innovative theaicore.com 
 - 💬 Ask me about running or chess
 - 📫 How to reach me: misha.freidin@gmail.com, https://www.linkedin.com/in/misha-freidin/
