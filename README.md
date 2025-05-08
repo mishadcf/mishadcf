@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on building a flood classification system for Cornwall, UK
+- 🔭 I’m currently working in the automation and analytics engineering intersection
 - 💬 Ask me about running or chess
 - 📫 How to reach me: misha.freidin@gmail.com, https://www.linkedin.com/in/misha-freidin/
